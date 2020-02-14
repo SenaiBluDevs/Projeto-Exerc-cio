@@ -2,5 +2,9 @@ João Luca
 21
 stranger fodase
 percy jackson
+<<<<<<< HEAD
+Procurando nemosss
+=======
 Procurando nemosss
 Data de nascimento: 01/11/1998
+>>>>>>> 3d4b418525328e99c8d7c9c2b7c2ce948373f83a
